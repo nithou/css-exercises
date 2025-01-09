@@ -1,0 +1,8 @@
+div p {
+    background-color: yellow;
+    color:red;
+    font-size:20px;
+    text-align: center;;
+}
+
+/* Personal note : using > is for direct children, wouldn't impact imbricated children */
